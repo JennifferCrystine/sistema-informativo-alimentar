@@ -5,3 +5,26 @@ A ideia do sistema é permitir que o usuário informe ao sistema suas refeiçõe
 Ideia de uma estudante de nutrição.
 Projeto planejado para a disciplina de Engenharia de Software.
 Execução para treinar Vue.js
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
